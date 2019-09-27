@@ -1,13 +1,17 @@
 {
   "name": "color-mod-calc",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.3",
+  "description": "Calculate color modifications between two colors and apply them to other colors.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "url": "https://github.com/alexanderson1993/color-mod-calc.git",
+    "type": "git"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Alex Anderson",
   "license": "MIT",
   "dependencies": {
     "rgb-lab": "^1.0.0",
