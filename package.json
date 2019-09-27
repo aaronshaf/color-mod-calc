@@ -1,0 +1,16 @@
+{
+  "name": "color-mod-calc",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "rgb-lab": "^1.0.0",
+    "tinycolor2": "^1.4.1"
+  }
+}
